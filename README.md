@@ -1,4 +1,7 @@
 # Angular Homes App
+
+This project is based on the official **Angular Dev Codelabs**.
+
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
